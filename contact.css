@@ -1,0 +1,43 @@
+.kcctrl{
+    background-image: url("./images/banners/header-banner.jpg");
+    height:75vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.contact{
+    
+    text-align: center;
+    font-weight: 700;
+    font-size:72px;
+    font-family: poppins, sans-serif;
+    line-height: normal;
+    
+
+}
+
+.badge{
+    height: 75px;
+}
+.insidenav{
+    display: flex;
+}
+
+.navlist{
+    display: flex;
+    gap: 25px;
+}
+
+.normala{
+    font-weight: 800;
+    text-decoration: none;
+    color: var(--black);
+    font-family: Poppins, sans-serif;
+}
+.list{
+    display: flex;
+    flex-direction: column;
+    width:200px
+}
