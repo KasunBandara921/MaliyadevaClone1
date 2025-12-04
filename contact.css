@@ -194,4 +194,26 @@
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
    }
+
+   .contact{
+    color : var(--black);
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 72px;
+    font-style: normal;
+    line-height: normal;
+    animation: 250ms ease-out 0s 1 normal none running animatedTitle;
+    text-transform: capitalize;
+}
+
+.getintouch{
+    font-family: Poppins, sans-serif;
+    font-size: 32px;
+}
