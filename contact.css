@@ -361,3 +361,13 @@
     border-radius: 5px;
     background: #000000;
 }
+
+.allright{
+    text-align: center;
+    color: #000000;
+    font-family: poppins;
+    font-size: 14px;
+    font-weight: 600;
+    font-style: normal;
+    text-transform: uppercase;
+}
