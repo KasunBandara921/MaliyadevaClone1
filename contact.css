@@ -385,7 +385,24 @@
 .innerfooter{
     margin: 0px 10px;
     width: 100%;
-
-
-
+    display:flex;
+    flex-direction: row;
+    max-width: 1440px;
+    flex:1 1 0%;
 }
+
+.footerleft{
+    width: 200px;
+    display: flex;
+    align-items: center;
+}
+
+.crest-o-img{
+    height: 100px;
+    object-fit: contain;
+}
+
+.footerright{width:100%;
+display: flex;
+flex-direction: column;
+gap:20px;}
