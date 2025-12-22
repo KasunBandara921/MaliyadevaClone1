@@ -1,3 +1,7 @@
 .section1{
-    background-image:url("https://maliyadeva.lk/images/banners/academic-banner.png") ;
+    background-image: url(./images/banners/academic-banner.png);
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
 }
