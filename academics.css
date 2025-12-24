@@ -115,3 +115,8 @@ h2{
     padding-bottom: 15px;
     transition: 0.4s;
 }
+
+    .subjectbanner{
+        height: 250px;
+        width: 100%;
+        background-image: url(../images/banners/subject-banner.jpg);}
