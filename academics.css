@@ -120,6 +120,7 @@ h2{
         height: 250px;
         width: 100%;
         background-image: url(../images/banners/subject-banner.jpg);
+        background-size: cover;
     background: linear-gradient(to left, rgb(255, 255, 255), rgba(255, 255, 255, 0)), url(../images/banners/subject-banner.jpg) initial, initial initial, initial initial, initial initial, initial initial, initial;}
 
 
